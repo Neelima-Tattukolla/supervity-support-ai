@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "Billing",
+    "question": "Why was I charged twice?",
+    "answer": "Duplicate charges can occur when a payment is retried. Please check your billing history first. If two completed charges appear for the same invoice, contact the billing team for a refund review."
+  },
+  {
+    "id": 2,
+    "category": "Billing",
+    "question": "How can I update my billing information?",
+    "answer": "You can update your billing information from Settings > Billing > Payment Method. Changes apply to the next billing cycle."
+  },
+  {
+    "id": 3,
+    "category": "Technical",
+    "question": "My API is returning a 500 error.",
+    "answer": "A 500 error indicates a server-side problem. Check the API status page and review your request payload. If the issue continues, provide the request ID to technical support."
+  },
+  {
+    "id": 4,
+    "category": "Technical",
+    "question": "The application is not loading.",
+    "answer": "First check your internet connection and refresh the application. If the problem continues, clear your browser cache and check the service status page."
+  },
+  {
+    "id": 5,
+    "category": "Account Access",
+    "question": "I forgot my password.",
+    "answer": "Click 'Forgot Password' on the login page and enter your registered email address. You will receive a password reset link."
+  },
+  {
+    "id": 6,
+    "category": "Account Access",
+    "question": "How do I change my password?",
+    "answer": "Go to Settings > Security > Change Password. Enter your current password and then create a new password."
+  }
+]
